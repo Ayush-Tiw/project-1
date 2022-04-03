@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#main_heading{
+    text-align: center;
+    background-color: rgb(95, 200, 235);
+    color:rgb(255, 255, 255);
+    padding:10px;
+}
+
+#topic{
+    text-align: center;
+    margin-top: 10px;
+    background-color: rgb(204, 171, 171);
+    
+    
+}
+
+#search_content{
+    background-color: wheat;
+    width:20%;
+    height:100px;
+    margin:20px; 
+    padding:20px;
+    border-radius: 10px;
+    text-align: center;; 
+    align-content: center;
+    
+}
+
+#side-heading{
+    margin-bottom:10px;
+}
+
+#text,#btn1{
+    display:block;
+    margin:10px;
+}
+#btn1{
+    margin-left:100px;
+    font-size:20px;
+    font-weight:bold;
+    background-color:white;
+    border-radius:30px;
+    padding:5px;
+    cursor:pointer;
+}
+#text{
+    margin-left:50px;
+    padding:5px;
+    border:none;
+    border-radius:10px;
+}
+
+#received-_content{
+    background-color:aqua;
+    width:300px;
+    padding:10px;
+    border:1px solid black;
+    border-radius:10px;
+}
+
+#th1,#th2,#th3{
+    border:1px solid black;
+    padding:10px;
+}
